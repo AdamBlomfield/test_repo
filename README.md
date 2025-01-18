@@ -1,2 +1,5 @@
 # test_repo
-Testing Repo setup
+
+Running Tests (in terminal)
+
+> cd test_repo && ./run_tests.sh
